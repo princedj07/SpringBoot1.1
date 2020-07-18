@@ -1,0 +1,17 @@
+
+http://localhost:8084/rest/hello
+
+// Headers
+key:Authorisation	
+value:Token eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJQZXRlciIsInVzZXJJZI6IjEyMyIsInJvbGUiOiJhZG1pbiJ9.qeHLPH99i-F3jbluDKE48wVx5winzWyXLjffQ0u-_yPpHqUP3QZtOh6gRMM4A3K-6QZAb9ZnL5-G7AyUMNsYgA
+
+
+http://localhost:8084/token
+
+// Body	-	Token genration
+
+{
+    "userName":"Peter",
+    "id":123,
+    "role":"admin"
+}
