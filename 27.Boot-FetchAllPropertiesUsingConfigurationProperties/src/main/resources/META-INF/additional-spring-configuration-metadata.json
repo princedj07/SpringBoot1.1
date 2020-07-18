@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "user.username",
+    "type": "java.lang.String",
+    "description": "A description for 'user.username'"
+  },
+  {
+    "name": "user.age",
+    "type": "java.lang.String",
+    "description": "A description for 'user.age'"
+  },
+  {
+    "name": "user.salary",
+    "type": "java.lang.String",
+    "description": "A description for 'user.salary'"
+  },
+  {
+    "name": "user.emailList[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[0]'"
+  },
+  {
+    "name": "user.emailList[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[1]'"
+  },
+  {
+    "name": "user.emailList[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[2]'"
+  },
+  {
+    "name": "user.emailList[3]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[3]'"
+  },
+  {
+    "name": "user.emailList[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[1]'"
+  },
+  {
+    "name": "user.emailList[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[1]'"
+  },
+  {
+    "name": "user.emailList[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[1]'"
+  },
+  {
+    "name": "user.emailList[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[1]'"
+  },
+  {
+    "name": "user.emailList[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[1]'"
+  },
+  {
+    "name": "user.emailList[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[1]'"
+  },
+  {
+    "name": "user.emailList[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'user.emailList[1]'"
+  }
+]}
